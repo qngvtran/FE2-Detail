@@ -1,5 +1,3 @@
-// src/mocks/mockMembers.js
-
 const mockMembers = [
   { id: 1, name: "Alice", isOwner: true },
   { id: 2, name: "Bob", isOwner: false },
